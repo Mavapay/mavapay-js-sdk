@@ -1,0 +1,30 @@
+{
+  "name": "mavapay-sdk",
+  "version": "1.0.0",
+  "description": "JavaScript SDK for MavaPay API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mavapay/mavapay-js-sdk.git"
+  },
+  "keywords": [
+    "sdk",
+    "lightning",
+    "mava",
+    "btc",
+    "satoshi",
+    "mavapay"
+  ],
+  "author": "Ilesanmi Omoniyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mavapay/mavapay-js-sdk/issues"
+  },
+  "homepage": "https://github.com/Mavapay/mavapay-js-sdk#readme",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
